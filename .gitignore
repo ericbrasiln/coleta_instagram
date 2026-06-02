@@ -1,0 +1,13 @@
+# Dados brutos (imagens e JSONs do Instagram)
+dados/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Instaloader session files
+config/
+
+# OS
+.DS_Store
