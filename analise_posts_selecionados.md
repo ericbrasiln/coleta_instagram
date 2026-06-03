@@ -1,14 +1,14 @@
 # Análise Detalhada dos Posts Selecionados
 
-Gerado em: 2026-06-03 08:51
+Gerado em: 2026-06-03 08:52
 
 TCC: **A construção de imagens acerca de trabalhadoras domésticas a partir do Instagram: um olhar a partir da história do tempo presente**
 
 Orientador: Eric Brasil Nepomuceno (UNILAB)
 Aluna: Bianca Souza
 
-Perfis: `@euempregadadomestica`, `@fenatrad.br`, `@sindomesticobahia`, `@conlactraho1`
-Total: **11 posts** (6 + 4 + 1 compartilhado + 1 compartilhado)
+Perfis: `@euempregadadomestica` (6 posts) e `@fenatrad.br` (4 posts)
+Total: **10 posts**
 
 ---
 
@@ -72,6 +72,7 @@ Palestras @errede_br
 - **Legenda**: "Essa gente fede, em pleno 2021 permanece enraizada na Casa Grande. Esta lamentando no seu perfil pq não acha ninguém que tope ser escravizada. Tá achando um absurdo as trabalhadoras domésticas no EUA cobrar por hora e não aceitar abrir mão de sua própria vida pra cuidar da sinhá Eu odeio pessoas como essa Adriana #EuEmpregadaDomestica"
 - **Comprimento**: 336 caracteres
 - **Hashtags** (1): euempregadadomestica
+- **⚠️ Conteúdo sensível**: denúncia / alerta / violência
 - **Arquivo de vídeo**: `2021-06-24_12-56-14_UTC_CQgO4mRneko.mp4`
 - **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
 
@@ -169,63 +170,7 @@ Por direitos e valorização da categoria✊🏾
 - **Comentários**: 2
 - **Marcados**: fenatrad.br
 - **URL**: https://instagram.com/p/DSLiLOXkV5z
-- **Temas**: 16 dias de ativismo, trabalhadoras domésticas (internacional), trabalho digno
-- **Legenda**: "#16DiasDeAtivismo #16daysofactivism #trabalhodigno #trabajadorasdelhogar"
-- **Comprimento**: 72 caracteres
-- **Hashtags** (4): #16DiasDeAtivismo #16daysofactivism #trabalhodigno #trabajadorasdelhogar
-- **Arquivo de vídeo**: `2025-12-12_22-32-34_UTC_DSLiLOXkV5z.mp4`
-- **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
-- **Amostra de comentários** (2):
-  - @{'id': '8297011456', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/709707470_18317724058275457_2407431269081152258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTMuYzIifQ&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFYEJS0cWAHipWLG34Jv0_U8O_9uG-QDKq8MFjlOQFhSUjbqXeNwJAVDkhCBg4wcCtSfyLzIZs2HBKa-LVazm6K&_nc_ohc=eYxvEMoEHj4Q7kNvwFYTJF0&_nc_gid=c9KsH4UKQOzmO8O8tV97MA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af-Lgav9BzoZpjQB_2A4TiaEm5yoD4eKdztm9_pXxlTFxA&oe=6A25D00F&_nc_sid=d885a2', 'username': 'martinsevanjelista'}: "Ariene vc nos representa 👏👏👏"
-  - @{'id': '8297011456', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/709707470_18317724058275457_2407431269081152258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTMuYzIifQ&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFYEJS0cWAHipWLG34Jv0_U8O_9uG-QDKq8MFjlOQFhSUjbqXeNwJAVDkhCBg4wcCtSfyLzIZs2HBKa-LVazm6K&_nc_ohc=eYxvEMoEHj4Q7kNvwFYTJF0&_nc_gid=c9KsH4UKQOzmO8O8tV97MA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af-Lgav9BzoZpjQB_2A4TiaEm5yoD4eKdztm9_pXxlTFxA&oe=6A25D00F&_nc_sid=d885a2', 'username': 'martinsevanjelista'}: "Parabéns Irene pela luta 👏👏👏❤️"
-
-
-## @sindomesticobahia
-
-*Metadata do perfil não coletada — perfil incluído apenas nos posts selecionados*
-
-### Posts Selecionados (1 posts)
-
-#### 1. `DUn-CpRkT_N` — 2026-02-11
-
-- **Tipo**: Vídeo/Reel
-- **Likes**: 209
-- **Views**: 1,156
-- **Duração**: 0:55
-- **Comentários**: 24
-- **Marcados**: fenatrad.br
-- **URL**: https://instagram.com/p/DUn-CpRkT_N
-- **Temas**: assédio, direitos, doméstica, trabalho doméstico
-- **Legenda** (truncada): "Nem tudo é fantasia no Carnaval. Enquanto muita gente veste a máscara da folia, muitas trabalhadoras domésticas enfrentam jornadas exaustivas, falta de direitos, assédio e até a ausência de descanso. O que para alguns é festa, para outras pode ser mais um período de invisibilidade e sobrecarga. Neste Carnaval, é preciso tirar a máscara e enxergar essa realidade. Trabalho doméstico é trabalho digno e deve ser respeitado em qualquer época do ano. ✨ Direitos não entram em recesso. Respeito também não. 🤝 Junte-se a quem luta por trabalho doméstico com direitos. Filie-se ao SINDOMÉSTICO-BA e fortal..."
-- **Comprimento**: 673 caracteres
-- **Hashtags** (3): #TrabalhoDomésticoComDireitos #Carnaval2026 #SindomésticoBA
-- **⚠️ Conteúdo sensível**: denúncia / alerta / violência
-- **Arquivo de vídeo**: `2026-02-11_16-37-49_UTC_DUn-CpRkT_N.mp4`
-- **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
-- **Amostra de comentários** (24):
-  - @{'id': '33132679160', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/660811537_18093568532111161_957260645044827230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=BWDXbyCaoiMQ7kNvwGm59E9&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af_NDxu0X-wzGpeFFsS_LOWfNtmVogTYF64oLYXrZxQyXg&oe=6A25CDB4&_nc_sid=d885a2', 'username': 'mariaisabel466'}: "Parabéns companheiras pela peças 👏🏿👏🏿👏🏿👏🏿"
-  - @{'id': '33132679160', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/660811537_18093568532111161_957260645044827230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=BWDXbyCaoiMQ7kNvwGm59E9&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af_NDxu0X-wzGpeFFsS_LOWfNtmVogTYF64oLYXrZxQyXg&oe=6A25CDB4&_nc_sid=d885a2', 'username': 'mariaisabel466'}: "Pois é companheiras nada disso é justo, mas é o que passamos no período da folia do carnaval, é um l..."
-  - @{'id': '7909163948', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-1.fna.fbcdn.net/v/t51.2885-19/391110726_1493252981434195_216556924338600805_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=07g1e3EPj3AQ7kNvwGZhgLv&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af_Pa0VjMRX3R70j1E8KBLeaa0-F9x-FliImBK94Rz1aJQ&oe=6A25D1F3&_nc_sid=d885a2', 'username': 'anapaulag88'}: "Parabéns meninas por esse vídeo super necessário ."
-  - @{'id': '2201707331', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.2885-19/27576230_523102334738067_9042728942200422400_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=kVttQGFDplQQ7kNvwFyQfKy&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af8_qLVwKzXxUWWy2u8-TMrgjJ6i4L691fr7xH9k7BTIww&oe=6A25DF79&_nc_sid=d885a2', 'username': 'ssirlena'}: "É complicado"
-  - @{'id': '1205176887', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-1.fna.fbcdn.net/v/t51.82787-19/707843548_18593395126056888_7974139085289555271_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=iBetNeXpTAcQ7kNvwGrFYd1&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af9sOSNbK4Iz0rKYmoUUTd4ODL-dkY0j-UYdXE0eRbkj5g&oe=6A25FD6B&_nc_sid=d885a2', 'username': 'annebailarina'}: "Excelente"
-
-
-## @conlactraho1
-
-*Metadata do perfil não coletada — perfil incluído apenas nos posts selecionados*
-
-### Posts Selecionados (1 posts)
-
-#### 1. `DSLiLOXkV5z` — 2025-12-12
-
-- **Tipo**: Vídeo/Reel
-- **Likes**: 20
-- **Views**: 125
-- **Duração**: 2:53
-- **Comentários**: 2
-- **Marcados**: fenatrad.br
-- **URL**: https://instagram.com/p/DSLiLOXkV5z
-- **Temas**: 16 dias de ativismo, trabalhadoras domésticas (internacional), trabalho digno
+- **Temas**: trabalho digno
 - **Legenda**: "#16DiasDeAtivismo #16daysofactivism #trabalhodigno #trabajadorasdelhogar"
 - **Comprimento**: 72 caracteres
 - **Hashtags** (4): #16DiasDeAtivismo #16daysofactivism #trabalhodigno #trabajadorasdelhogar
@@ -240,24 +185,24 @@ Por direitos e valorização da categoria✊🏾
 
 ## Análise Comparativa
 
-### Visão Geral dos Posts Selecionados
-- **Total analisado**: 12 posts
+### Visão Geral dos 10 Posts Selecionados
+- **Total analisado**: 10 posts
 - **Imagem**: 4
-- **Vídeo/Reel**: 6
+- **Vídeo/Reel**: 4
 - **Carrossel**: 2
-- **Total de likes**: 18,570
-- **Média de likes**: 1,547
-- **Temas mais recorrentes**: doméstica, direitos, trabalho doméstico, Preta Rara, FENATRAD, assédio, 16 dias de ativismo, trabalhadoras domésticas (internacional), trabalho digno, legislação
-- **Hashtags mais usadas**: #euempregadadomestica, ##TrabalhoDomésticoComDireitos, ##Carnaval2026, ##SindomésticoBA, ##16DiasDeAtivismo, ##16daysofactivism, ##trabalhodigno, ##trabajadorasdelhogar, #euemmpregadadomestica, #euempregadadoméstica, #repost, #trabalhodoméstico, #fenatrad
+- **Total de likes**: 18,341
+- **Média de likes**: 1,834
+- **Total de comentários (amostra)**: 26
+- **Temas mais recorrentes**: doméstica, direitos, Preta Rara, FENATRAD, trabalho doméstico, legislação, violência, assédio, organização sindical, racismo
+- **Hashtags mais usadas**: #euempregadadomestica, #euemmpregadadomestica, #euempregadadoméstica, #repost, #trabalhodoméstico, #fenatrad, ##TrabalhoDomésticoComDireitos, ##Carnaval2026, ##SindomésticoBA, ##16DiasDeAtivismo, ##16daysofactivism, ##trabalhodigno, ##trabajadorasdelhogar
 
 ---
 
 ## Notas Metodológicas
 
-- **Coleta geral**: Instaloader 4.15.1 com patch do doc_id GraphQL (issue #2695)
+- **Coleta**: Instaloader 4.15.1 com patch do doc_id GraphQL (issue #2695)
 - **Download seletivo**: Instaloader com `download_pictures`, `download_videos`, `download_comments`
 - **Data da coleta**: 02-03/06/2026
 - **Transcrição de vídeos**: OpenAI Whisper (modelo base, língua portuguesa)
-- **Perfis**: @euempregadadomestica (6 posts), @fenatrad.br (4 posts), @sindomesticobahia (1 post), @conlactraho1 (1 post)
-- **Limitações**: Comentários dos posts selecionados foram coletados apenas quando disponíveis via API. Dados de likes/views são instantâneos da data de coleta.
-- **Observação**: O post `DUn-CpRkT_N` está presente tanto em @fenatrad.br quanto em @sindomesticobahia (repost). O post `DSLiLOXkV5z` está tanto em @fenatrad.br quanto em @conlactraho1 (repost).
+- **Perfis**: @euempregadadomestica (6 posts) e @fenatrad.br (4 posts)
+- **Limitações**: Comentários coletados quando disponíveis via API. Likes/views são instantâneos da data de coleta.
