@@ -1,6 +1,6 @@
 # Análise Detalhada dos Posts Selecionados
 
-Gerado em: 2026-06-03 08:52
+Gerado em: 2026-06-03 08:57
 
 TCC: **A construção de imagens acerca de trabalhadoras domésticas a partir do Instagram: um olhar a partir da história do tempo presente**
 
@@ -47,7 +47,33 @@ Palestras @errede_br
 - **Comprimento**: 502 caracteres
 - **Hashtags** (1): euemmpregadadomestica
 - **Arquivo de vídeo**: `2022-08-01_21-22-59_UTC_Cgu1LrWLl87.mp4`
-- **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
+- **Transcrição**: "Tchau, eu acho. E aí, uma das perguntas era o Rafael que limpa os cocôs dos cachos. Quem tá limpando agora? Eu respondi, a Mara que limpa o cocô dos cachos. Eu, Rafael, ficamos por conta do Enrique. A Eve, o Fred dorme no quarto com a gente e a gente tranca a porta para os grandes não entrarem. E por esse motivo, Eve e Fred descender a cama na sua escadinha lindamente e fazem xixi o cocô no chão no cantinho. E aí, a primeira coisa que a Mara faz quando a Mara chega em casa é catar os cocôs. Xixi ela, ela limpa logo depois, mas ela vai catar os cocôs, principalmente. Os grandes fazem na área externa, então é muito mais fácil. Pega a pa e joga no lixo. E quando contratamos a Mara, a mais de um ano atrás, a primeira coisa que a gente fala para ele, o que a gente fala para qualquer funcionário nosso, é, nós temos cinco cachos. No caso da Mara, eu contratei ela para manter a limpeza da minha casa. Então, a obrigação dela não é cozinha a obrigação, apesar dela fazer almosto os dias, não é a primeira obrigação dela. Esse é o ofício da Mara, ela cuida da minha casa, ela limpa a minha casa. E quando tem xixi, cocô, ela também limpa. E ela entrou dentro da nossa casa, sabendo disso."
+  - Transcrição segmentada:
+    - [0.0s – 1.3s] Tchau, eu acho.
+    - [1.3s – 4.9s] E aí, uma das perguntas era o Rafael que limpa os cocôs dos cachos.
+    - [4.9s – 6.3s] Quem tá limpando agora?
+    - [6.3s – 9.3s] Eu respondi, a Mara que limpa o cocô dos cachos.
+    - [9.3s – 11.5s] Eu, Rafael, ficamos por conta do Enrique.
+    - [11.5s – 15.3s] A Eve, o Fred dorme no quarto com a gente e a gente tranca a porta
+    - [15.3s – 17.4s] para os grandes não entrarem.
+    - [17.4s – 21.7s] E por esse motivo, Eve e Fred descender a cama na sua escadinha
+    - [21.7s – 26.0s] lindamente e fazem xixi o cocô no chão no cantinho.
+    - [26.0s – 29.7s] E aí, a primeira coisa que a Mara faz quando a Mara chega em casa
+    - [29.7s – 31.6s] é catar os cocôs.
+    - [31.6s – 35.9s] Xixi ela, ela limpa logo depois, mas ela vai catar os cocôs, principalmente.
+    - [35.9s – 39.0s] Os grandes fazem na área externa, então é muito mais fácil.
+    - [39.0s – 41.4s] Pega a pa e joga no lixo.
+    - [41.4s – 45.8s] E quando contratamos a Mara, a mais de um ano atrás,
+    - [45.8s – 48.0s] a primeira coisa que a gente fala para ele,
+    - [48.0s – 50.9s] o que a gente fala para qualquer funcionário nosso, é,
+    - [50.9s – 54.2s] nós temos cinco cachos.
+    - [54.2s – 59.6s] No caso da Mara, eu contratei ela para manter a limpeza da minha casa.
+    - [59.6s – 62.4s] Então, a obrigação dela não é cozinha a obrigação,
+    - [62.4s – 65.6s] apesar dela fazer almosto os dias, não é a primeira obrigação dela.
+    - [65.6s – 71.0s] Esse é o ofício da Mara, ela cuida da minha casa, ela limpa a minha casa.
+    - [71.0s – 74.1s] E quando tem xixi, cocô, ela também limpa.
+    - [74.1s – 77.5s] E ela entrou dentro da nossa casa, sabendo disso.
+  - Modelo: base | Idioma: pt
 
 
 #### 3. `Cf74KMeNa_7` — 2022-07-13
@@ -74,7 +100,23 @@ Palestras @errede_br
 - **Hashtags** (1): euempregadadomestica
 - **⚠️ Conteúdo sensível**: denúncia / alerta / violência
 - **Arquivo de vídeo**: `2021-06-24_12-56-14_UTC_CQgO4mRneko.mp4`
-- **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
+- **Transcrição**: "Onde morro? Acho alguém para me trabalhar aqui em casa para fazer tudo por favor implorem de que alguém aqui dos Estados Unidos dá flora de jolando. A gente paga bem, só que limp, lava, passe, guarda, cozinha, quando eu precisar, eles criam, se quando eu precisar, por favor, gente. Ai, vamos andando mais rápido, só colocando coisa pra lá, gente. E é muito sério, isso está metirão do sono, tem resado, pediu dar deus, pôs nes amigas, favela, caça, tipo, tá todo mundo atrás de alguém pra mim. E não tem, tipo assim, a galera aqui gosta muito de trabalhar, tipo, em vários, tipo ganhar a hora, ganhar por hora de trabalho, e eu quero alguém pra poder ficar aqui, tipo, o tempo todo, fazendo tudo pra mim, e não acho. Eu já recebi umas três educações pra ele ir. Ai, então eu precisava disso, disso, disso. Ai, então essa parte eu não faço, mas eu recebi um educaço que parece que você tava procurando, não, não. Ai, gente, vocês tão aqui, eu preciso trabalhar. Essas coisas que eu tenho que ficar fazendo, entendeu? Não dá, porque eu não consigo trabalhar, porque vocês não tão vivendo. Que a lava roupa é colocar, pra lá vai passar, arrumar, organizar, tirar bagunça, é pegar roupa suje de criança. E pior, que tá todo mundo assim, tipo, não tem gente aqui pra poder trabalhar tá quentata, tá traseito aqui, fazer uma ressal."
+  - Transcrição segmentada:
+    - [0.0s – 2.0s] Onde morro?
+    - [2.0s – 13.0s] Acho alguém para me trabalhar aqui em casa para fazer tudo por favor implorem de que alguém aqui dos Estados Unidos dá flora de jolando.
+    - [13.0s – 22.0s] A gente paga bem, só que limp, lava, passe, guarda, cozinha, quando eu precisar, eles criam, se quando eu precisar, por favor, gente.
+    - [22.0s – 26.0s] Ai, vamos andando mais rápido, só colocando coisa pra lá, gente.
+    - [27.0s – 36.0s] E é muito sério, isso está metirão do sono, tem resado, pediu dar deus, pôs nes amigas, favela, caça, tipo, tá todo mundo atrás de alguém pra mim.
+    - [36.0s – 46.0s] E não tem, tipo assim, a galera aqui gosta muito de trabalhar, tipo, em vários, tipo ganhar a hora, ganhar por hora de trabalho,
+    - [46.0s – 51.0s] e eu quero alguém pra poder ficar aqui, tipo, o tempo todo, fazendo tudo pra mim, e não acho.
+    - [52.0s – 54.0s] Eu já recebi umas três educações pra ele ir.
+    - [54.0s – 56.0s] Ai, então eu precisava disso, disso, disso.
+    - [56.0s – 62.0s] Ai, então essa parte eu não faço, mas eu recebi um educaço que parece que você tava procurando, não, não.
+    - [62.0s – 65.0s] Ai, gente, vocês tão aqui, eu preciso trabalhar.
+    - [65.0s – 71.0s] Essas coisas que eu tenho que ficar fazendo, entendeu? Não dá, porque eu não consigo trabalhar, porque vocês não tão vivendo.
+    - [71.0s – 77.0s] Que a lava roupa é colocar, pra lá vai passar, arrumar, organizar, tirar bagunça, é pegar roupa suje de criança.
+    - [77.0s – 86.0s] E pior, que tá todo mundo assim, tipo, não tem gente aqui pra poder trabalhar tá quentata, tá traseito aqui, fazer uma ressal.
+  - Modelo: base | Idioma: pt
 
 
 #### 5. `CLnUqiAHqXZ` — 2021-02-23
@@ -140,7 +182,27 @@ Por direitos e valorização da categoria✊🏾
 - **Hashtags** (3): #TrabalhoDomésticoComDireitos #Carnaval2026 #SindomésticoBA
 - **⚠️ Conteúdo sensível**: denúncia / alerta / violência
 - **Arquivo de vídeo**: `2026-02-11_16-37-49_UTC_DUn-CpRkT_N.mp4`
-- **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
+- **Transcrição**: "Problemas enfrentadas pelos trabalhadores domésticas que só que retramar a hidrodoméstica samba. E o excesso de trabalho? Enche em a casa de gente e nós temos que trabalhar dobrado, triplicado pelo mesmo dinheiro. Isso está certo? Nós, mulher, nos sofrendo acê no transporte público. Nem tudo durante o carnaval é a alegria. O trajeto do transporte muda e a gente com o trabalhador doméstica anda, anda, anda para chegar no local de trabalho, a fim da trabalho é com que? A patrôa quer viajar e quer me levar junto. Isso é justo. E os patrões foram para a avenida curtir. Me deixaram com as crianças. Esqueceiro, eu tenho horário para embora. Isso é justo. E você, trabalhador doméstica, quais são os problemas que vocês enfrentam no período do carnaval? Me conta aí."
+  - Transcrição segmentada:
+    - [0.0s – 5.9s] Problemas enfrentadas pelos trabalhadores domésticas que só que retramar a hidrodoméstica
+    - [5.9s – 6.9s] samba.
+    - [6.9s – 8.5s] E o excesso de trabalho?
+    - [8.5s – 14.8s] Enche em a casa de gente e nós temos que trabalhar dobrado, triplicado pelo mesmo dinheiro.
+    - [14.8s – 15.8s] Isso está certo?
+    - [15.8s – 20.8s] Nós, mulher, nos sofrendo acê no transporte público.
+    - [20.8s – 23.3s] Nem tudo durante o carnaval é a alegria.
+    - [23.3s – 28.3s] O trajeto do transporte muda e a gente com o trabalhador doméstica anda, anda, anda
+    - [28.3s – 31.8s] para chegar no local de trabalho, a fim da trabalho é com que?
+    - [31.8s – 35.0s] A patrôa quer viajar e quer me levar junto.
+    - [35.0s – 36.0s] Isso é justo.
+    - [36.0s – 39.0s] E os patrões foram para a avenida curtir.
+    - [39.0s – 40.5s] Me deixaram com as crianças.
+    - [40.5s – 43.1s] Esqueceiro, eu tenho horário para embora.
+    - [43.1s – 44.8s] Isso é justo.
+    - [44.8s – 49.5s] E você, trabalhador doméstica, quais são os problemas que vocês enfrentam no período
+    - [49.5s – 50.5s] do carnaval?
+    - [50.5s – 51.6s] Me conta aí.
+  - Modelo: base | Idioma: pt
 - **Amostra de comentários** (24):
   - @{'id': '33132679160', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/660811537_18093568532111161_957260645044827230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=BWDXbyCaoiMQ7kNvwGm59E9&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af_NDxu0X-wzGpeFFsS_LOWfNtmVogTYF64oLYXrZxQyXg&oe=6A25CDB4&_nc_sid=d885a2', 'username': 'mariaisabel466'}: "Parabéns companheiras pela peças 👏🏿👏🏿👏🏿👏🏿"
   - @{'id': '33132679160', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/660811537_18093568532111161_957260645044827230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHh-sNqDBIcg8zEbxpcPOej_q4Ou3DLIStviGqitZeRThGehF1XUGge_Fg32RZNtQY6CJ-aVkWiny6bzzR25Edu&_nc_ohc=BWDXbyCaoiMQ7kNvwGm59E9&_nc_gid=EED3dewN_t-4bVMKkCGAVQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af_NDxu0X-wzGpeFFsS_LOWfNtmVogTYF64oLYXrZxQyXg&oe=6A25CDB4&_nc_sid=d885a2', 'username': 'mariaisabel466'}: "Pois é companheiras nada disso é justo, mas é o que passamos no período da folia do carnaval, é um l..."
@@ -175,7 +237,39 @@ Por direitos e valorização da categoria✊🏾
 - **Comprimento**: 72 caracteres
 - **Hashtags** (4): #16DiasDeAtivismo #16daysofactivism #trabalhodigno #trabajadorasdelhogar
 - **Arquivo de vídeo**: `2025-12-12_22-32-34_UTC_DSLiLOXkV5z.mp4`
-- **Transcrição**: ERRO — OSError: /home/ebn/.local/lib/python3.12/site-packages/torch/lib/libtorch_global_deps.so: cannot open shared object file: No such file or directory
+- **Transcrição**: "Sou a Arim, trabalhadora Domestika de Sr. Chípy, vim aqui falar um pouco da minha tragitória doméstica dos meus direitos e defires dos direitos e vereiros das patruras que não comprem com a lei trabalhista Domestika. Crei meus meus filhos, Crei meus filhos, agora que meus metros, as útapia meus metros, com a trabalho Domestika. Sou muito grata por ser Domestika, mas porém, tive muita desterminação no trabalho com as patruras, a respeito da gente da cor, a respeito da realidade, que seja um que é gol, seja um termado ser integral, seja um debate, tudo isso ele examiniza, eu aciso uma rota de respeito com a trabalhadora Domestika, porque o importante é se dar em trabalho e dar continuidade, nunca as utilidades chegaram a fazer nada, que é trabalhar, a isso não as empolossos serenundadas e com cautela e respeito. Não chegar assim, não quer essa parte sempre da porque ela é gluda, eu não quero porque ela preta, não entendeu? E se se contar que eles vão publicar os valores que esse quer passei passado para caramba de nós, e outros quer que ele que duvam, já acabou o tempo de doming, e quando Dom acorda a cérdena então não tem hora para dormir, isso já foi no passado, hoje não existe mais isso, mesmo assim muitas patruras querem que a gente duvam entrei, e não tem a hora, não tem outras trabalhos, trabalho é direto, então, entendeu? Esse é um absurdo, o venha que vai revivicar sobre isso, porque isso não pode acontecer, não segue o que é de vídeo hoje, não poderia acontecer principalmente hoje, o preconceito, e a fazer isso que não é para ser feito tudo, no mesmo valor, eles querem que a gente compra o nosso serviço com os valores que é a menos abaixo do que a trabalhadora do Domésica, sem direito a ganhar, férias muitas na queridade, 30 diferentes, já tá na lei, 30 diferentes, muito não quer dar um auxílio do aense, ou ao estilo maternidade, da quisi de dias 20, 10, 10, 10, 20 dias, e quer que a gente volta sem falar que a gente precisa ter uns viores, topo, exato, para aumentar, né? Precisamos, vamos proporzir estamos duento, eles já tocam a jeito de outros, porque a gente sai capaz de quando não tá duento, e fiquem capazes para sempre, não, elas também, elas também ficam duento, a gente que que trabalha, como o trabalhador Domésica, a gente vê quando elas as patrôs que falam o trabalho por que o Estado é o rote, que as elas podem a gente não, eu vinha aqui de aqui a agradecer o meu momento de sal."
+  - Transcrição segmentada:
+    - [0.0s – 7.1s] Sou a Arim, trabalhadora Domestika de Sr. Chípy, vim aqui falar um pouco da minha tragitória
+    - [7.1s – 15.0s] doméstica dos meus direitos e defires dos direitos e vereiros das patruras que não comprem
+    - [15.0s – 18.0s] com a lei trabalhista Domestika.
+    - [18.0s – 25.0s] Crei meus meus filhos, Crei meus filhos, agora que meus metros, as útapia meus metros, com
+    - [25.0s – 27.0s] a trabalho Domestika.
+    - [27.0s – 34.0s] Sou muito grata por ser Domestika, mas porém, tive muita desterminação no trabalho com as
+    - [34.0s – 40.0s] patruras, a respeito da gente da cor, a respeito da realidade, que seja um que é gol,
+    - [40.0s – 46.0s] seja um termado ser integral, seja um debate, tudo isso ele examiniza, eu aciso uma
+    - [46.0s – 52.0s] rota de respeito com a trabalhadora Domestika, porque o importante é se dar em trabalho e
+    - [52.0s – 57.0s] dar continuidade, nunca as utilidades chegaram a fazer nada, que é trabalhar, a isso
+    - [57.0s – 61.0s] não as empolossos serenundadas e com cautela e respeito.
+    - [61.0s – 65.0s] Não chegar assim, não quer essa parte sempre da porque ela é gluda, eu não quero porque
+    - [65.0s – 67.0s] ela preta, não entendeu?
+    - [67.0s – 74.0s] E se se contar que eles vão publicar os valores que esse quer passei passado para caramba
+    - [74.0s – 80.0s] de nós, e outros quer que ele que duvam, já acabou o tempo de doming, e quando Dom acorda
+    - [80.0s – 86.0s] a cérdena então não tem hora para dormir, isso já foi no passado, hoje não existe mais
+    - [86.0s – 92.0s] isso, mesmo assim muitas patruras querem que a gente duvam entrei, e não tem a
+    - [92.0s – 96.0s] hora, não tem outras trabalhos, trabalho é direto, então, entendeu?
+    - [96.0s – 101.0s] Esse é um absurdo, o venha que vai revivicar sobre isso, porque isso não pode acontecer,
+    - [101.0s – 108.0s] não segue o que é de vídeo hoje, não poderia acontecer principalmente hoje, o preconceito,
+    - [108.0s – 116.0s] e a fazer isso que não é para ser feito tudo, no mesmo valor, eles querem que a gente
+    - [116.0s – 122.0s] compra o nosso serviço com os valores que é a menos abaixo do que a trabalhadora
+    - [122.0s – 127.0s] do Domésica, sem direito a ganhar, férias muitas na queridade, 30
+    - [127.0s – 132.0s] diferentes, já tá na lei, 30 diferentes, muito não quer dar um auxílio do
+    - [132.0s – 139.0s] aense, ou ao estilo maternidade, da quisi de dias 20, 10, 10, 10, 20
+    - [139.0s – 146.0s] dias, e quer que a gente volta sem falar que a gente precisa ter uns viores, topo, exato,
+    - [146.0s – 151.0s] para aumentar, né? Precisamos, vamos proporzir estamos duento, eles já tocam a
+    - [151.0s – 155.0s] jeito de outros, porque a gente sai capaz de quando não tá duento, e fiquem
+    - [155.0s – 160.0s] capazes para sempre, não, elas também, elas também ficam duento, a gente que
+    - [160.0s – 165.0s] que trabalha, como o trabalhador Domésica, a gente vê quando elas as patrôs que
+  - Modelo: base | Idioma: pt
 - **Amostra de comentários** (2):
   - @{'id': '8297011456', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/709707470_18317724058275457_2407431269081152258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTMuYzIifQ&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFYEJS0cWAHipWLG34Jv0_U8O_9uG-QDKq8MFjlOQFhSUjbqXeNwJAVDkhCBg4wcCtSfyLzIZs2HBKa-LVazm6K&_nc_ohc=eYxvEMoEHj4Q7kNvwFYTJF0&_nc_gid=c9KsH4UKQOzmO8O8tV97MA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af-Lgav9BzoZpjQB_2A4TiaEm5yoD4eKdztm9_pXxlTFxA&oe=6A25D00F&_nc_sid=d885a2', 'username': 'martinsevanjelista'}: "Ariene vc nos representa 👏👏👏"
   - @{'id': '8297011456', 'is_verified': False, 'profile_pic_url': 'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.82787-19/709707470_18317724058275457_2407431269081152258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTMuYzIifQ&_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFYEJS0cWAHipWLG34Jv0_U8O_9uG-QDKq8MFjlOQFhSUjbqXeNwJAVDkhCBg4wcCtSfyLzIZs2HBKa-LVazm6K&_nc_ohc=eYxvEMoEHj4Q7kNvwFYTJF0&_nc_gid=c9KsH4UKQOzmO8O8tV97MA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af-Lgav9BzoZpjQB_2A4TiaEm5yoD4eKdztm9_pXxlTFxA&oe=6A25D00F&_nc_sid=d885a2', 'username': 'martinsevanjelista'}: "Parabéns Irene pela luta 👏👏👏❤️"
